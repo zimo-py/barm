@@ -8,8 +8,11 @@ In order to build the distributed environment, you need to build the basic Hyper
 
 # Description of the files
 The 'chain1fabric-docker-multiple.tar.gz package' is the configuration and control file for fabric.
+
 The 'chain1fabric-go-sdk.tar.gz' package is the programming interface file for fabric.
+
 The 'chain1mininet.tar.gz' package is the configuration and control file for mininet.
+
 The 'chain1ryucontroller.tar.gz' package is the configuration and control file for ryu.
 
 # Configure the blockchain network
